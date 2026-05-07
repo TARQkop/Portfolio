@@ -1,21 +1,32 @@
-# Portfolio
+# ⚡ Developer Portfolio
 
-Modern and responsive developer portfolio built with **React**, **TypeScript**, and **Tailwind CSS**.
+<p align="center">
+  A modern, responsive and high-performance developer portfolio built with React, TypeScript and Tailwind CSS.
+</p>
 
-![Preview](./public/preview.png)
+<p align="center">
+  <img src="./public/preview.png" alt="Portfolio Preview" width="100%" />
+</p>
 
 ---
 
-## ✨ Features
+## ✨ Overview
+
+This is a modern developer portfolio designed to showcase projects, skills, and experience in a clean and professional way.  
+It focuses on performance, responsiveness, and smooth user experience.
+
+---
+
+## 🚀 Features
 
 - ⚡ Fast and optimized performance
 - 🎨 Modern UI/UX design
-- 📱 Fully responsive layout
+- 📱 Fully responsive layout (Mobile / Tablet / Desktop)
 - 🌙 Dark mode support
-- 🎬 Smooth animations
-- 🧩 Reusable components
-- 🔥 Built with modern technologies
-- 📂 Clean project structure
+- 🎬 Smooth animations and transitions
+- 🧩 Reusable components structure
+- 🔥 Clean and scalable code
+- 💻 Built with modern web technologies
 
 ---
 
@@ -45,13 +56,13 @@ Modern and responsive developer portfolio built with **React**, **TypeScript**, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nova-portfolio.git
+git clone https://github.com/your-username/portfolio.git
 ```
 
-Go to the project folder:
+Go to project folder:
 
 ```bash
-cd nova-portfolio
+cd portfolio
 ```
 
 Install dependencies:
@@ -60,7 +71,7 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Run development server:
 
 ```bash
 npm run dev
@@ -84,10 +95,10 @@ src/
 
 ## 🌐 Live Demo
 
-Add your deployed website link here:
+Add your live link here:
 
 ```txt
-https://your-website.com
+https://your-domain.com
 ```
 
 ---
@@ -96,27 +107,27 @@ https://your-website.com
 
 | Desktop | Mobile |
 |----------|---------|
-| Modern responsive layout | Optimized mobile UI |
+| Clean UI | Responsive Design |
 
 ---
 
 ## 💡 Inspiration
 
-Inspired by modern developer portfolios and premium SaaS landing pages.
+Designed with modern UI trends and developer-focused portfolio layouts.
 
 ---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: tariq@example.com
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-username
+- Email: your-email@example.com
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is open source and available under the MIT License.
 
 ---
 
