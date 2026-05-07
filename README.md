@@ -1,4 +1,4 @@
-# 🚀 Nova Portfolio
+# Portfolio
 
 Modern and responsive developer portfolio built with **React**, **TypeScript**, and **Tailwind CSS**.
 
